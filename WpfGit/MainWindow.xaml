@@ -9,5 +9,6 @@
     <StackPanel>
         <Button Content="test"/>
         <Button Content="test2"/>
+        <Button Content="test3"/>
     </StackPanel>
 </Window>
