@@ -10,5 +10,6 @@
         <Button Content="test"/>
         <Button Content="test2"/>
         <Button Content="test3"/>
+        <Label Content="feature-branch"/>
     </StackPanel>
 </Window>
