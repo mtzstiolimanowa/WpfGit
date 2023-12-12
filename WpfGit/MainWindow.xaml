@@ -11,5 +11,6 @@
         <Button Content="test2"/>
         <Button Content="test3"/>
         <Label Content="feature-branch"/>
+        <Button Content="pull request" BorderBrush="Red"/>
     </StackPanel>
 </Window>
